@@ -1,0 +1,1 @@
+# awsview.nvim
